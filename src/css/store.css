@@ -1,0 +1,29 @@
+.logostore{
+    margin-top: 3vh;
+    margin-left: 2vw;
+    width: 11vw;
+    height: auto;
+}
+.store-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.content{
+    margin-left:20%;
+    text-align: center;
+}
+
+.buttons{
+    border-radius: 2vh;
+    /* width: 7%; */
+    height: 3vh;
+    font-size: 2vh;
+    font-weight: bold;
+    margin-left: 1vw;
+    border: none;
+    background-color:transparent;
+}
+.buttons:hover{
+    background-color: aliceblue;
+}

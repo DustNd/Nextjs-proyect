@@ -1,0 +1,26 @@
+.contenido{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.carta{
+    width: 33.82949932341001vh;
+    height: 33.82949932341001vh;
+    border-radius: 3.3829499323410013vh;
+    margin-left: 2vh;
+}
+
+.carruselcards{
+    display: flex;
+    flex-direction: row;
+}
+
+.titulocarru{
+    margin-left: 10vw;
+}
+
+.lel{
+    margin-top: 10vh;
+}
